@@ -1,0 +1,57 @@
+{
+  "name": "vscode-nestjs-pack",
+  "displayName": "NestJS Essential Extension Pack",
+  "description": "NestJS Essential Extension Pack",
+  "version": "1.1.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "nestjs",
+    "extension-pack"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-nestjs-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-nestjs-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-nestjs-pack/issues"
+  },
+  "extensionPack": [
+    "imgildev.vscode-nestjs-snippets-extension",
+    "manucodes.nestjs-snippets",
+    "aaron-bond.better-comments",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "sirtori.indenticator",
+    "shardulm94.trailing-spaces",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "rbbit.typescript-hero",
+    "pmneo.tsimporter",
+    "stringham.move-ts",
+    "orta.vscode-jest",
+    "firsttris.vscode-jest-runner",
+    "davidanson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one"
+  ]
+}
