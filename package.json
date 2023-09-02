@@ -2,7 +2,7 @@
   "name": "vscode-nestjs-pack",
   "displayName": "NestJS Essential Extension Pack",
   "description": "NestJS Essential Extension Pack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
