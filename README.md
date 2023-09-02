@@ -1,11 +1,11 @@
-![icon](https://raw.githubusercontent.com/ManuelGil/vscode-codeigniter4-pack/main/icon.png)
+![icon](https://raw.githubusercontent.com/ManuelGil/vscode-nestjs-pack/main/icon.png)
 
-# CodeIgniter 4 Essential Extension Pack
+# NestJS Essential Extension Pack
 
-[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-codeigniter4-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-codeigniter4-pack)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-codeigniter4-pack)]()
+[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-nestjs-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-pack)
+[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-nestjs-pack)]()
 
-CodeIgniter 4 Essential Extension Pack
+NestJS Essential Extension Pack
 
 ## Requirements
 
@@ -44,8 +44,8 @@ See [CHANGELOG.md](./CHANGELOG.md)
 
 - **Manuel Gil** - _Owner_ - [ManuelGil](https://github.com/ManuelGil)
 
-See also the list of [contributors](https://github.com/ManuelGil/vscode-codeigniter4-pack/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ManuelGil/vscode-nestjs-pack/contributors) who participated in this project.
 
 ## License
 
-CodeIgniter 4 Extension Pack is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details.
+NestJS Extension Pack is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details.
