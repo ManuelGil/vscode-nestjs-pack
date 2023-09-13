@@ -2,7 +2,7 @@
   "name": "vscode-nestjs-pack",
   "displayName": "NestJS Essential Extension Pack",
   "description": "NestJS Essential Extension Pack",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -32,6 +32,7 @@
     "url": "https://github.com/ManuelGil/vscode-nestjs-pack/issues"
   },
   "extensionPack": [
+    "imgildev.vscode-nestjs-generator",
     "imgildev.vscode-nestjs-snippets-extension",
     "manucodes.nestjs-snippets",
     "steoates.autoimport",

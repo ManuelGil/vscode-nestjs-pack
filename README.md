@@ -13,6 +13,7 @@ NestJS Essential Extension Pack
 
 ## Extensions included
 
+- [NestJS File Generator for VSCode](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-generator)
 - [NestJS Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension)
 - [NestJS Snippets](https://marketplace.visualstudio.com/items?itemName=manucodes.nestjs-snippets)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
