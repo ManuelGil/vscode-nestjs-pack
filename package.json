@@ -1,8 +1,8 @@
 {
   "name": "vscode-nestjs-pack",
   "displayName": "NestJS Essential Extension Pack",
-  "description": "NestJS Essential Extension Pack",
-  "version": "1.4.0",
+  "description": "This extension pack for Visual Studio Code adds extensions that are amazingly useful for NestJS development.",
+  "version": "1.5.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -34,6 +34,7 @@
   "extensionPack": [
     "imgildev.vscode-nestjs-generator",
     "imgildev.vscode-nestjs-snippets-extension",
+    "imgildev.vscode-nestjs-typeorm-snippets",
     "manucodes.nestjs-snippets",
     "steoates.autoimport",
     "formulahendry.auto-rename-tag",
