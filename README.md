@@ -16,6 +16,7 @@ This extension pack for Visual Studio Code adds extensions that are amazingly us
 - [NestJS TypeORM Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-typeorm-snippets)
 - [NestJS MikroORM Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-mikroorm-snippets)
 - [NestJS Prisma Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-prisma-snippets)
+- [NestJS Mongoose ODM Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-mongoose-snippets)
 - [NestJS Snippets](https://marketplace.visualstudio.com/items?itemName=manucodes.nestjs-snippets)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
