@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.9.1] - 2023-12-30
+
+### Fixed
+
+- Improve docuemntation
+
 ## [1.9.0] - 2023-12-19
 
 ### Added
@@ -87,7 +93,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
-[unreleased]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...HEAD
+[unreleased]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.1...HEAD
+[1.9.1]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...v1.9.1
 [1.9.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.7.0...v1.8.0
 [1.7.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.6.0...v1.7.0
