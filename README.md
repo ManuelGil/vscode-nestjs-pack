@@ -2,6 +2,8 @@
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-nestjs-pack?style=for-the-badge&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-pack)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/imgildev.vscode-nestjs-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-pack)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/imgildev.vscode-nestjs-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-pack)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/imgildev.vscode-nestjs-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-pack&ssr=false#review-details)
 [![GitHub Repo stars](https://img.shields.io/github/stars/ManuelGil/vscode-nestjs-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-nestjs-pack)
 [![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-nestjs-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-nestjs-pack/blob/main/LICENSE)
 
@@ -15,11 +17,7 @@ This extension pack is designed for the developers who want to kick-start their 
 
 - [NestJS File Generator for VSCode](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-generator)
 - [NestJS Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension)
-- [NestJS TypeORM Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-typeorm-snippets)
-- [NestJS MikroORM Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-mikroorm-snippets)
-- [NestJS Prisma Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-prisma-snippets)
-- [NestJS Mongoose ODM Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-mongoose-snippets)
-- [NestJS SequelizeORM Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-sequelize-snippets)
+- [NestJS Swagger Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-swagger-snippets)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Draw Folder Structure](https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure)

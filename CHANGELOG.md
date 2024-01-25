@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.10.0] - 2024-01-25
+
+### Added
+
+- Add NestJS Swagger Snippets
+
+### Removed
+
+- Remove NestJS ORMs Snippets
+
 ## [1.9.1] - 2023-12-30
 
 ### Fixed
@@ -93,7 +103,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
-[unreleased]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.1...HEAD
+[unreleased]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.10.0...HEAD
+[1.10.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...v1.10.0
 [1.9.1]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...v1.9.1
 [1.9.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.7.0...v1.8.0
