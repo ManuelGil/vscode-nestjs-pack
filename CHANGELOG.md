@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.11.0] - 2024-04-22
+
+### Added
+
+- Add Auto Barrel extension
+
 ## [1.10.0] - 2024-01-25
 
 ### Added
@@ -103,7 +109,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
-[unreleased]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.10.0...HEAD
+[unreleased]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.11.0...HEAD
+[1.11.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.11.0...v1.11.0
 [1.10.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...v1.10.0
 [1.9.1]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...v1.9.1
 [1.9.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.8.0...v1.9.0
