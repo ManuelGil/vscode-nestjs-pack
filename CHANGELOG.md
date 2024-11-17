@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.12.0] - 2024-11-17
+
+### Added
+
+- Add JSON Flow extension
+
 ## [1.11.0] - 2024-04-22
 
 ### Added
@@ -110,8 +116,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release
 
 [unreleased]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.11.0...HEAD
-[1.11.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.11.0...v1.11.0
-[1.10.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...v1.10.0
+[1.12.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.11.0...v1.12.0
+[1.11.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.10.0...v1.11.0
+[1.10.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.1...v1.10.0
 [1.9.1]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.9.0...v1.9.1
 [1.9.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/ManuelGil/vscode-nestjs-pack/compare/v1.7.0...v1.8.0

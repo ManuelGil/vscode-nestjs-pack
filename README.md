@@ -25,6 +25,7 @@ This extension pack is designed for the developers who want to kick-start their 
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
